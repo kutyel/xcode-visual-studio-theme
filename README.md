@@ -10,6 +10,6 @@ Installation
 
 1. Open the file CONSOLA.TTF
 2. Install the font
-3. Copy the theme file to the folder ``(~/Library/Developer/Xcode/UserData/FontAndColorThemes/)``
+3. Copy the theme file to the folder `(~/Library/Developer/Xcode/UserData/FontAndColorThemes/)`
 4. Restart Xcode
-5. Apply theme
+5. Apply theme `(Xcode > Preferences > Fonts & Colors)`
